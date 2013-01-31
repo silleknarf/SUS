@@ -3,7 +3,7 @@
 #
 # SUS - A quick and dirty usability scale
 # Takes the answers to SUS questions 1 to 10 as a position number from 1-5
-# on the command like and oututs the SUS Score 
+# on the command like and outputs the SUS Score 
 #
 # 	Usage:
 # 	./SUS.py 4152514231
