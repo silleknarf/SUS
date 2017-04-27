@@ -4,7 +4,7 @@ SUS - A quick and dirty usability scale calculator
 Overview of SUS
 ===============
 
-The System Usability Scale is 10 question test where participants are asked to score the following 10 items with one of five responses that range from Strongly Agree to Strongly disagree:
+The [System Usability Scale](https://en.wikipedia.org/wiki/System_usability_scale) is 10 question test where participants are asked to score the following 10 items with one of five responses that range from Strongly Agree to Strongly disagree:
 
 1. I think that I would like to use this system frequently.
 2. I found the system unnecessarily complex.
