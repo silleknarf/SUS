@@ -6,16 +6,16 @@ Overview of SUS
 
 The System Usability Scale is 10 question test where participants are asked to score the following 10 items with one of five responses that range from Strongly Agree to Strongly disagree:
 
-# I think that I would like to use this system frequently.
-# I found the system unnecessarily complex.
-# I thought the system was easy to use.
-# I think that I would need the support of a technical person to be able to use this system.
-# I found the various functions in this system were well integrated.
-# I thought there was too much inconsistency in this system.
-# I would imagine that most people would learn to use this system very quickly.
-# I found the system very cumbersome to use.
-# I felt very confident using the system.
-# I needed to learn a lot of things before I could get going with this system.
+1. I think that I would like to use this system frequently.
+2. I found the system unnecessarily complex.
+3. I thought the system was easy to use.
+4. I think that I would need the support of a technical person to be able to use this system.
+5. I found the various functions in this system were well integrated.
+6. I thought there was too much inconsistency in this system.
+7. I would imagine that most people would learn to use this system very quickly.
+8. I found the system very cumbersome to use.
+9. I felt very confident using the system.
+10. I needed to learn a lot of things before I could get going with this system.
 
 Usage
 =====
